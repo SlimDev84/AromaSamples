@@ -1,0 +1,26 @@
+body{
+    background-color: #282828;
+    font-family: "Segoe UI Light", "Eras Medium ITC", monospace;
+    color: rgb(150, 148, 148);
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.logo-mark {
+    position: relative;
+    height: 167.95px;
+    width: 144.06px;
+    top: -84px;
+    margin-bottom: -44px;
+}
+
+.mx-auto {
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
+
+.textshadow {
+    text-shadow: 2px 2px 4px #000000;
+}
