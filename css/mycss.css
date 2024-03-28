@@ -4,23 +4,29 @@ body{
     color: rgb(150, 148, 148);
 }
 
-.text-center {
+.logo-center {
+    position: absolute;
     text-align: center !important;
+    top: 85%;
+    left: 45%;
 }
 
 .logo-mark {
-    position: relative;
-    height: 167.95px;
-    width: 144.06px;
-    top: -84px;
-    margin-bottom: -44px;
+    width: 100%;
+    height: auto;
+    max-width: 9vw;    
 }
 
 .mx-auto {
     margin-right: auto !important;
-    margin-left: auto !important;
+    margin-left: auto !important;   
 }
 
 .textshadow {
     text-shadow: 2px 2px 4px #000000;
+}
+
+.text-center {
+    position: relative;
+    text-align: center !important;
 }
